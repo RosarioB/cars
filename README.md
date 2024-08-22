@@ -1,3 +1,8 @@
+# Cars application
+A simple React application that uses Redux to manage the state and React Toolkit to integrate React and Redux.
+
+![alt text](https://github.com/RosarioB/cars/blob/main/github_images/cars.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Acknowledgments
+This code is adapted from the course [Modern React with Redux](https://www.udemy.com/course/react-redux) by Stephen Grider, with some modifications.
